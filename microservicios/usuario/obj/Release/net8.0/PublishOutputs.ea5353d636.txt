@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\microservicios\usuario\obj\Release\net8.0\PubTmp\Out\usuario.exe
+C:\Users\HP\source\repos\microservicios\usuario\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\HP\source\repos\microservicios\usuario\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\HP\source\repos\microservicios\usuario\obj\Release\net8.0\PubTmp\Out\usuario.dll
+C:\Users\HP\source\repos\microservicios\usuario\obj\Release\net8.0\PubTmp\Out\usuario.deps.json
+C:\Users\HP\source\repos\microservicios\usuario\obj\Release\net8.0\PubTmp\Out\usuario.runtimeconfig.json
+C:\Users\HP\source\repos\microservicios\usuario\obj\Release\net8.0\PubTmp\Out\usuario.pdb
+C:\Users\HP\source\repos\microservicios\usuario\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\HP\source\repos\microservicios\usuario\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\source\repos\microservicios\usuario\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\source\repos\microservicios\usuario\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
